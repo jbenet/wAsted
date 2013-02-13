@@ -1,0 +1,16 @@
+Title: wAsted: the unreal city
+Credit: written by
+Authors:
+	the wAsted Collective: Kendra Allenby, Juan Batiz-Benet, Sarah Grandin, Sarah Guerrero, Kate Hyder, Malcolm Loungway, Dan Marmor, Vanessa Petrosky, Susannah Poland, Red Ransil, Katie Ridley, Wyatt Roy, Cassaundra Vergel, Corinna Wallace
+Notes:
+  Revision 21-wip
+Copyright: CC-BY-SA 2009 wAsted collective
+
+
+NOTE!
+
+This will be the Fountain (http://fountain.io/) version of wAsted (http://wAsted.github.com).
+For now, use the PDF: http://wAsted.github.com/wAsted.pdf
+
+This has not been transcrbed. I need help! Please send pull-requests to:
+https://github.com/jbenet/wAsted
