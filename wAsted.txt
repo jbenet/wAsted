@@ -9,8 +9,8 @@ Copyright: CC-BY-SA 2009 wAsted collective
 
 NOTE!
 
-This will be the Fountain (http://fountain.io/) version of wAsted (http://wAsted.github.com).
-For now, use the PDF: http://wAsted.github.com/wAsted.pdf
+This will be the Fountain (http://fountain.io/) version of wAsted (http://wAsted.benet.ai).
+For now, use the PDF: http://wAsted.benet.ai/wAsted.pdf
 
 This has not been transcrbed. I need help! Please send pull-requests to:
 https://github.com/jbenet/wAsted
